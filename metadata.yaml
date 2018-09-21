@@ -1,0 +1,26 @@
+_repo: The-Kallikak-Family-A-Study-in-the-Heredity-of-Feeble-Mindedness_53958
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Goddard, Henry Herbert
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '42006'
+    url: http://www.gutenberg.org/2009/agents/42006
+description: ''
+gutenberg_issued: '2017-01-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53958'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mental retardation'
+- !lcsh 'People with mental disabilities'
+- !lcc 'HQ'
+- !lcsh 'Heredity, Human'
+- GITenberg
+title: 'The Kallikak Family: A Study in the Heredity of Feeble-Mindedness'
+url: http://www.gutenberg.org/ebooks/53958
